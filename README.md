@@ -5,7 +5,7 @@ i will develop it in 1 month
 
 for my swift career, i want to learn and use snapkit
 
-api : lol api
+question source : raw url 
 
 arch : mvc
 

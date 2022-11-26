@@ -9,7 +9,7 @@ question source : raw url
 
 arch : mvc
 
-json and service : alamoFire
+json and service : get request 
 
 autoLayout : snapkit
 

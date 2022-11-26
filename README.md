@@ -1,5 +1,7 @@
 # LoL-Quiz-App-
-my second app, MVC, API, SnapKit
+
+
+MVC, API, SnapKit
 
 i will develop it in 1 month
 
